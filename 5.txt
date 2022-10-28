@@ -1,1 +1,2 @@
-Hi, this is file number 5
+Hi, this is filie number 5
+this is git pratical for push command
