@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 I am writing second code
 =======
  I am writing first code of line
+>>>>>>> Stashed changes
+=======
+I am writing second code for client
 >>>>>>> Stashed changes
