@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 I am writing second code
+=======
+ I am writing first code of line
+>>>>>>> Stashed changes
